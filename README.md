@@ -2,7 +2,7 @@
 
 ### Project: Bike rental demand prediction
 
-####### Workflow
+#### Workflow
 ![image](https://github.com/Optimus-Q/Bike-demand-prediction/assets/46313772/f6e60d91-63a9-40c4-897e-331058c65921)
 
 
