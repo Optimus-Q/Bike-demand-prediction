@@ -12,5 +12,6 @@ Various statistical analyses were conducted, including univariate and bivariate 
 
 ### Modeling:
 The dataset was split into an 80/20 ratio for training and testing purposes. Kernel Ridge Regression and Support Vector Regression were utilized for modeling bike demand prediction. Models underwent optimization through K-Fold cross-validation and grid search parameter tuning.
-![Uploading image.png…]()
+![image](https://github.com/Optimus-Q/Bike-demand-prediction/assets/46313772/66c840a0-d63a-488c-8356-f6d82fddb7ff)
+
 
